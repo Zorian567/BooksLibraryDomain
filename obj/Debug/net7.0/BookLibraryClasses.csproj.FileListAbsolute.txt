@@ -1,0 +1,14 @@
+C:\VSCodeCS\BookLibraryClasses\obj\Debug\net7.0\BookLibraryClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCodeCS\BookLibraryClasses\obj\Debug\net7.0\BookLibraryClasses.AssemblyInfoInputs.cache
+C:\VSCodeCS\BookLibraryClasses\obj\Debug\net7.0\BookLibraryClasses.AssemblyInfo.cs
+C:\VSCodeCS\BookLibraryClasses\obj\Debug\net7.0\BookLibraryClasses.csproj.CoreCompileInputs.cache
+C:\VSCodeCS\BookLibraryClasses\bin\Debug\net7.0\BookLibraryClasses.exe
+C:\VSCodeCS\BookLibraryClasses\bin\Debug\net7.0\BookLibraryClasses.deps.json
+C:\VSCodeCS\BookLibraryClasses\bin\Debug\net7.0\BookLibraryClasses.runtimeconfig.json
+C:\VSCodeCS\BookLibraryClasses\bin\Debug\net7.0\BookLibraryClasses.dll
+C:\VSCodeCS\BookLibraryClasses\bin\Debug\net7.0\BookLibraryClasses.pdb
+C:\VSCodeCS\BookLibraryClasses\obj\Debug\net7.0\BookLibraryClasses.dll
+C:\VSCodeCS\BookLibraryClasses\obj\Debug\net7.0\refint\BookLibraryClasses.dll
+C:\VSCodeCS\BookLibraryClasses\obj\Debug\net7.0\BookLibraryClasses.pdb
+C:\VSCodeCS\BookLibraryClasses\obj\Debug\net7.0\BookLibraryClasses.genruntimeconfig.cache
+C:\VSCodeCS\BookLibraryClasses\obj\Debug\net7.0\ref\BookLibraryClasses.dll
